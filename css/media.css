@@ -61,8 +61,35 @@
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width : 768px) {
-
+@media only screen and (max-width : 768px) {
+	.grid-sizer,
+	.grid-item {
+		width: 33.3333%;
+	}
+	.bio-name h1 {
+		font-size: 30px;
+		padding: 20px;
+	}
+	.bio-description p {
+		padding: 8px 0;
+		line-height: 1;
+		font-size: 16px;
+	}
+	.bio-description p:last-child {
+		font-size: 16px;
+		width: 50%;
+	}
+	.contacts-info h2 {
+		font-size: 17px;
+		padding: 0 12px 12px;
+	}
+	.contacts-info {
+		width: 100%;
+	}
+	.contacts-map {
+		width: 100%;
+		margin-top: 15px;
+	}
 }
 
 /* Medium Devices, Desktops */
