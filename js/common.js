@@ -9,14 +9,14 @@ $(function() {
 
 	//E-mail Ajax Send
 	//Documentation & Example: https://github.com/agragregra/uniMail
-	$("form").submit(function() { //Change
+	$("#form").submit(function() { //Change
 		var th = $(this);
 		$.ajax({
 			type: "POST",
 			url: "mail.php", //Change
 			data: th.serialize()
 		}).done(function() {
-			alert("Thank you!");
+			alert("Gracias por mensaje!");
 			setTimeout(function() {
 				// Done Functions
 				th.trigger("reset");
@@ -46,39 +46,18 @@ $(window).on('load', function() {
 
 });
 
-// $(document).ready(function() {
-//     $(".owl-carousel").owlCarousel({
-// 		items:1,
-// 		loop:true,
-//         autoplay:true,
-// 		autoWidth:true,
-// 		center:true,
-//         autoplayTimeout:2000
-// 	});
-// });
+$('.grid').masonry({
+    // options
+    itemSelector: '.grid-item',
+    columnWidth: '.grid-sizer',
+    percentPosition: true,
+    horizontalOrder: true
+});
 
-
-
-$(function(){
-    $('.hero-slider').owlCarousel(
-    	{
-		items:1,
-		loop:true,
-        autoplay:true,
-		autoWidth:true,
-		center:true,
-		smartSpeed: 4000
-	}
-	);
-    $('.hero-slider2').owlCarousel(
-    	{
-		items:1,
-		loop:true,
-        autoplay:true,
-		autoWidth:true,
-		center:true,
-		rtl:true,
-        smartSpeed: 4000
-	}
-	);
+$('.grid-item-link').magnificPopup({
+    type: 'image',
+    gallery:{
+        enabled:true
+    }
+    // other options
 });
