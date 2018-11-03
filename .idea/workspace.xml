@@ -3,76 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fcd28ba2-0026-4f79-92f2-7f536f2234ca" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/img/slider/01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/14.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/15.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/16.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/17.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/18.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/19.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/20.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/21.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/22.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/23.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/24.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/25.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/26.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/27.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/28.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/29.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/30.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/31.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/32.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/33.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/34.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/35.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/36.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/37.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/38.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/39.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/40.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/41.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/42.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/43.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/44.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/45.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/46.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/47.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/48.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/49.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/50.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/51.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/52.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/53.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/54.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/55.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/56.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/57.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/58.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/59.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/60.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/61.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/62.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/63.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/64.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/65.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/66.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/slider/67.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/common.js" afterPath="$PROJECT_DIR$/js/common.js" />
+      <change beforePath="$PROJECT_DIR$/mail.php" afterPath="$PROJECT_DIR$/mail.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -88,8 +19,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="308">
-                  <caret line="110" column="28" lean-forward="false" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="28" />
+                <state relative-caret-position="486">
+                  <caret line="113" column="14" lean-forward="true" selection-start-line="113" selection-start-column="14" selection-end-line="113" selection-end-column="14" />
                   <folding>
                     <element signature="n#style#0;n#iframe#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#iframe#1;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -112,8 +43,8 @@
           <file leaf-file-name="mail.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/mail.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="242">
-                  <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+                <state relative-caret-position="286">
+                  <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -143,9 +74,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/mail.php" />
         <option value="$PROJECT_DIR$/js/common.js" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -157,7 +88,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="76" />
     <option name="width" value="1920" />
@@ -237,15 +168,15 @@
       <workItem from="1540997293826" duration="17740000" />
       <workItem from="1541073405417" duration="8643000" />
       <workItem from="1541106836021" duration="1172000" />
-      <workItem from="1541180844723" duration="23702000" />
+      <workItem from="1541180844723" duration="25347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51257000" />
+    <option name="totallyTimeSpent" value="52902000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -372,10 +303,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mail.php">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="688">
+          <caret line="236" column="1" lean-forward="false" selection-start-line="236" selection-start-column="1" selection-end-line="236" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -388,18 +319,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/mail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="236" column="1" lean-forward="false" selection-start-line="236" selection-start-column="1" selection-end-line="236" selection-end-column="1" />
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="110" column="28" lean-forward="false" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="28" />
+        <state relative-caret-position="486">
+          <caret line="113" column="14" lean-forward="true" selection-start-line="113" selection-start-column="14" selection-end-line="113" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#1;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
