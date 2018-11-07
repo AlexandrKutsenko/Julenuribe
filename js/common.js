@@ -46,13 +46,17 @@ $(window).on('load', function() {
 
 });
 
-$('.grid').masonry({
-    // options
-    itemSelector: '.grid-item',
-    columnWidth: '.grid-sizer',
-    percentPosition: true,
-    horizontalOrder: true
+$(document).ready(function() {
+    $('.grid').masonry({
+        // options
+        itemSelector: '.grid-item',
+        columnWidth: '.grid-sizer',
+        percentPosition: true,
+        horizontalOrder: true
+    });
 });
+
+
 
 $('.grid-item-link').magnificPopup({
     type: 'image',

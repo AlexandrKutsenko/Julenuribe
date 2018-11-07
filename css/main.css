@@ -128,7 +128,7 @@ header {
 }
 .grid-sizer,
 .grid-item {
-	width: 25%;
+	width: 20%;
 }
 /* clearfix */
 .grid:after {
