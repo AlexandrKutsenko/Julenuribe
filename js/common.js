@@ -46,7 +46,7 @@ $(window).on('load', function() {
 
 });
 
-$(document).ready(function() {
+$(window).on('load', function() {
     $('.grid').masonry({
         // options
         itemSelector: '.grid-item',
@@ -58,6 +58,11 @@ $(document).ready(function() {
 
 
 
+
+
+
+
+
 $('.grid-item-link').magnificPopup({
     type: 'image',
     gallery:{
@@ -65,3 +70,22 @@ $('.grid-item-link').magnificPopup({
     }
     // other options
 });
+
+$('.gallery-item-link').magnificPopup({
+    type: 'image',
+    gallery:{
+        enabled:true
+    }
+    // other options
+});
+
+(function() {
+    Galleria.loadTheme('libs/galleria/themes/classic/galleria.classic.min.js');
+    Galleria.run('.galleria');
+    Galleria.configure({
+        thumbCrop: true,
+        lightbox: true
+    });
+}());
+
+
